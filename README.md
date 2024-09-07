@@ -83,6 +83,7 @@ The ADASYN algorithm effectively addressed class imbalance, increasing the train
 | **U2R**    | 87               | 53,959                     |
 
 **Figures:**
+
 ![](img/data_plot.png)
 - **Fig 4.1**: Classes Distribution
 
