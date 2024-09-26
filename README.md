@@ -40,19 +40,6 @@ To address the class imbalance in the dataset, the **ADASYN** algorithm is emplo
 
 ## Results and Outputs
 
-### System Specification
-
-| **Component** | **Specification**        |
-|---------------|---------------------------|
-| **CPU**       | Intel(R) Core(TM) i5-1035G 1.19 GHz |
-| **OS**        | Windows 10 Home V22H2    |
-| **GPU**       | NVIDIA GeForce GTX 1650 4.0 GiB |
-| **Memory**    | 8.0 GiB                   |
-| **Disk**      | 512.0 GiB                 |
-| **Python**    | 3.7                       |
-| **PyTorch**   | 1.10                      |
-| **Framework** | Sklearn + TensorFlow      |
-
 ### Parameters Used
 
 | **Model** | **LSTM**                           | **CNN**                         |
